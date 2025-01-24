@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import ChildComponent1 from "./../components/ChildComponent1";
-import ChildComponent2 from "./../components/ChildComponent2";
+import ChildComponent1 from "./components/ChildComponent1";
+import ChildComponent2 from "./components/ChildComponent2";
 import './../styles/App.css';
 
 const App = () => {
