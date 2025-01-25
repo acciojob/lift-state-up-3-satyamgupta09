@@ -1,4 +1,5 @@
 import './../styles/App.css';
+import React from "react";
 
 export default function ChildComponent2({ setSelectedOption }) {
   return (
